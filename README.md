@@ -1,4 +1,5 @@
 # A
 
 ## Programming
-[C] (#C)
+
+- [C](#C)
